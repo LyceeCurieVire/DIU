@@ -12,4 +12,4 @@ TODO : utiliser un A* pour la recherche du plus court chemin.
 
 bhm.py est une version de Boyer Moore Horspool dont on peut détailler le fonctionnement pas-à-pas ici http://jovilab.sinaapp.com/visualization/algorithms/strings/boyer-moore-horspool
 
-
+SQL est utilisable dans jupyter https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551
